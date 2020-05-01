@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<h1 align="center">
 <img alt="GoStack MeetApp" src="https://res.cloudinary.com/yagoananias/image/upload/v1588308662/loft-switch_esjrmd.gif" />
+</h1>
 
 ## Available Scripts
 
